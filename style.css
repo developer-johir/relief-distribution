@@ -44,6 +44,13 @@ body {
     border-radius: 5px;
 }
 
+
+
+
+
+
+
+
 .donate-main-div {
     width: 1200px;
     margin: 0 auto;
@@ -105,6 +112,8 @@ body {
 
 
 
+
+
 .plan-section {
     margin-top: 80px;
     padding-bottom: 80px;
@@ -147,4 +156,52 @@ body {
 
 .right-box {
     background-color: #fff4d6;
+}
+
+
+
+
+
+.team-section {
+    padding: 70px 40px;
+    background-color: #f2f2f2;
+}
+
+.team-section h1 {
+    margin: 0px;
+}
+
+.team-section p {
+    padding: 60px 0px;
+}
+
+.main-team {
+    width: 1550px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.our-team {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 2px 4px 20px rgb(76, 66, 66);
+    border-radius: 5px;
+    background-color: white;
+}
+
+.team-image img {
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.team-name h3 {
+    color: #707070;
+}
+
+.team-button {
+    text-align: center;
+    margin-top: 90px;
 }
