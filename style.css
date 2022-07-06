@@ -43,3 +43,60 @@ body {
     font-size: 25px;
     border-radius: 5px;
 }
+
+.donate-main-div {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 90px 0px;
+}
+
+.title {
+    font-size: 70px;
+}
+
+.description {
+    font-size: 25px;
+    line-height: 35px;
+    margin-top: -35px;
+    color: #707070;
+}
+
+.donate-center {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0px;
+}
+
+.amount {
+    width: 200px;
+    height: 180px;
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.amount-tk {
+    font-size: 30px;
+    color: #707070;
+    margin: 0 auto;
+}
+
+.target {
+    background-color: #ffeeee;
+    border: 3px solid #ff5959;
+}
+
+.target h1 {
+    color: #ff5959;
+}
+
+.other-amount {
+    font-size: 27px;
+    font-weight: 400;
+    color: #b6b6b6;
+    padding: 20px 0px;
+    border-bottom: 2px solid #b6b6b6;
+    margin-bottom: 70px;
+}
