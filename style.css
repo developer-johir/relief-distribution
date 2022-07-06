@@ -100,3 +100,51 @@ body {
     border-bottom: 2px solid #b6b6b6;
     margin-bottom: 70px;
 }
+
+
+
+
+
+.plan-section {
+    margin-top: 80px;
+    padding-bottom: 80px;
+}
+
+.plan-main-div {
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.plan-header {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.plan-main-box {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+
+.plan-box {
+    width: 420px;
+    height: 320px;
+    background-color: #edf5f6;
+    border-radius: 10px;
+    padding: 90px 30px;
+}
+
+.plan-box h1 {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.center-box {
+    background-color: #ffeeee;
+}
+
+.right-box {
+    background-color: #fff4d6;
+}
