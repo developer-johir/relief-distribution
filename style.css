@@ -47,7 +47,7 @@ body {
 
 
 
-
+/*donate-section*/
 
 
 
@@ -111,7 +111,7 @@ body {
 
 
 
-
+/*plan-section*/
 
 
 .plan-section {
@@ -159,7 +159,7 @@ body {
 }
 
 
-
+/*team-section*/
 
 
 .team-section {
@@ -204,4 +204,28 @@ body {
 .team-button {
     text-align: center;
     margin-top: 90px;
+}
+
+
+/*donation-relief-section*/
+
+
+.donation-relief-section {
+    display: flex;
+    padding: 90px 50px;
+}
+
+.donation-relief {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.relief-description {
+    padding: 30px 0px;
+}
+
+.donation-relief img {
+    width: 95%;
+    height: 650px;
+    border-radius: 10px;
 }
